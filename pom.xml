@@ -18,7 +18,7 @@
     <properties>
         <java.version>13</java.version>
         <jsoup.version>1.12.1</jsoup.version>
-        <fasterxml.jackson.version>2.9.10</fasterxml.jackson.version>
+        <fasterxml.jackson.version>2.9.10.4</fasterxml.jackson.version>
         <lombok.version>1.18.10</lombok.version>
         <assertj.version>3.11.1</assertj.version>
         <httpClient.version>4.5.10</httpClient.version>
