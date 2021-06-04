@@ -21,7 +21,7 @@
         <fasterxml.jackson.version>2.9.10</fasterxml.jackson.version>
         <lombok.version>1.18.10</lombok.version>
         <assertj.version>3.11.1</assertj.version>
-        <httpClient.version>4.5.10</httpClient.version>
+        <httpClient.version>4.5.13</httpClient.version>
         <rest-assured.version>4.1.2</rest-assured.version>
         <logback.version>1.2.3</logback.version>
     </properties>
